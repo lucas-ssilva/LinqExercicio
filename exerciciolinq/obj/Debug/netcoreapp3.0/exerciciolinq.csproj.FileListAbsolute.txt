@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\bin\Debug\netcoreapp3.0\exerciciolinq.exe
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\bin\Debug\netcoreapp3.0\exerciciolinq.deps.json
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\bin\Debug\netcoreapp3.0\exerciciolinq.runtimeconfig.json
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\bin\Debug\netcoreapp3.0\exerciciolinq.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\bin\Debug\netcoreapp3.0\exerciciolinq.dll
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\bin\Debug\netcoreapp3.0\exerciciolinq.pdb
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\obj\Debug\netcoreapp3.0\exerciciolinq.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\obj\Debug\netcoreapp3.0\exerciciolinq.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\obj\Debug\netcoreapp3.0\exerciciolinq.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\obj\Debug\netcoreapp3.0\exerciciolinq.dll
+C:\Users\Lucas\source\repos\exerciciolinq\exerciciolinq\obj\Debug\netcoreapp3.0\exerciciolinq.pdb
